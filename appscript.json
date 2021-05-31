@@ -1,0 +1,27 @@
+{
+  "dependencies": {},
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request"
+  ],
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Eulerian Analytics - STA",
+    "logoUrl": "https://eu.global-cdn.net/ea-ui/api/eulerian.png",
+    "company": "Eulerian Technologies",
+    "companyUrl": "https://www.eulerian.com/",
+    "addonUrl": "https://www.eulerian.com/en/eulerian-data-studio",
+    "supportUrl": "https://github.com/EulerianTechnologies/eulerian-google-datastudio",
+    "description": "This connector fetches your data from the Eulerian Technologies platform through your dedicated API endpoint",
+    "sources": [
+      ""
+    ],
+    "shortDescription": "Fetch your data from the Eulerian Technologies platform",
+    "feeType": [
+      "FREE"
+    ],
+    "privacyPolicyUrl": "https://www.eulerian.com/vie-privee/",
+    "templates": {
+      "default": "2adcd5e2-1c04-4c28-9d70-f79eed6052f1"
+    }
+  }
+}
